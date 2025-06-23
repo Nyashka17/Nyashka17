@@ -24,14 +24,7 @@
 <br/>
 <br/>
 
-- 📗 [***Nyashka17/modules***](https://github.com/coddrago/modules) <br/>
-  Hikka/Heroku userbot modules.
-- 📘 [***Nyashka17/Ghost***](https://github.com/coddrago/Heroku) <br/>
-  A fork of userbot Heroku - Ghost.
-- :cupid: [***Nyashka17/ghost-web***](https://github.com/coddrago/heroku-web) <br/>
-  Ghost web interface.
-- :star: [***Nyashka17/modules-web***](https://github.com/coddrago/modules-web) <br/>
-  Modules Hikka/Heroku/Ghost web interface
+
 <p align='center'>
     <a href="#">
         <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
