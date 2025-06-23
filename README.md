@@ -28,7 +28,7 @@
   Hikka/Heroku userbot modules.
 - 📘 [***Nyashka17/Ghost***](https://github.com/coddrago/Heroku) <br/>
   A fork of userbot Heroku - Ghost.
-- :cupid: [***coddrago/ghost-web***](https://github.com/coddrago/heroku-web) <br/>
+- :cupid: [***Nyashka17/ghost-web***](https://github.com/coddrago/heroku-web) <br/>
   Ghost web interface.
 - :star: [***Nyashka17/modules-web***](https://github.com/coddrago/modules-web) <br/>
   Modules Hikka/Heroku/Ghost web interface
