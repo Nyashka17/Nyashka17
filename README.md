@@ -16,9 +16,9 @@
 - Languages: Russian, Ukrainie, English, Poland
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddrago&layout=compact&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8?&show_icons=true&disable_animations=false&icon_color=ffe32e&title_color=ffffff&text_color=ffffff&border_color=78c6fd&bg_color=45,78c6fd,5e7aef" alt="coddrago" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyashka17&layout=compact&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8?&show_icons=true&disable_animations=false&icon_color=ffe32e&title_color=ffffff&text_color=ffffff&border_color=78c6fd&bg_color=45,78c6fd,5e7aef" alt="coddrago" /></p>
 
-![coddrago's GitHub stats](https://github-readme-stats.vercel.app/api?username=coddrago&theme=date_night&show_icons=true)
+![coddrago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyashka17&theme=date_night&show_icons=true)
 
 <img src="./img/Repo-elaina.png" width="488" />
 <br/>
