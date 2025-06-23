@@ -3,7 +3,7 @@
 <img src="./img/AboutMe-elaina.png" width="488" />
 <br/><br/><br/>
 
-- Name: **Arthur**
+- Name: **Nadya**
 
 - Residing in: **Poland**
 
