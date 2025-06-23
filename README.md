@@ -24,19 +24,19 @@
 <br/>
 <br/>
 
-- 📗 [***coddrago/modules***](https://github.com/coddrago/modules) <br/>
+- 📗 [***Nyashka17/modules***](https://github.com/coddrago/modules) <br/>
   Hikka/Heroku userbot modules.
-- 📘 [***coddrago/Heroku***](https://github.com/coddrago/Heroku) <br/>
-  A fork of userbot Hikka - Heroku.
-- :cupid: [***coddrago/heroku-web***](https://github.com/coddrago/heroku-web) <br/>
-  Heroku web interface.
-- :star: [***coddrago/modules-web***](https://github.com/coddrago/modules-web) <br/>
-  Modules Hikka/Heroku web interface
+- 📘 [***Nyashka17/Ghost***](https://github.com/coddrago/Heroku) <br/>
+  A fork of userbot Heroku - Ghost.
+- :cupid: [***coddrago/ghost-web***](https://github.com/coddrago/heroku-web) <br/>
+  Ghost web interface.
+- :star: [***Nyashka17/modules-web***](https://github.com/coddrago/modules-web) <br/>
+  Modules Hikka/Heroku/Ghost web interface
 <p align='center'>
     <a href="#">
         <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
     </a> 
-    <a href="https://t.me/codrago">
+    <a href="https://t.me/R4qurt">
         <img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/>
     </a>
     <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
