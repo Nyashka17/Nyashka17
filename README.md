@@ -15,8 +15,6 @@
 
 - Languages: Russian, Ukrainie, English, Poland
 
-![Nyashka17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyashka17&theme=date_night&show_icons=true)
-
 <img src="./img/Repo-elaina.png" width="488" />
 <br/>
 <br/>
