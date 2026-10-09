@@ -24,7 +24,7 @@
     <a href="#">
         <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
     </a> 
-    <a href="https://t.me/R4qurt">
+    <a href="https://t.me/familiarrrrrr">
         <img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/>
     </a>
     <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
